@@ -198,9 +198,9 @@
     <string name="accessibility_phone_four_bars"> teléfono cuatro barras.</string>
     <string name="sim_switch_tip">This SIM was set as default SIM card for %s. Hold and drag down the Status Bar to change the default SIM card.</string>
     <string name="remind_next_time">No recordar más</string>
-    <string name="voice_call_service">voice call service</string>
-    <string name="messages_service">messages service</string>
-    <string name="data_connection_service">data connection service</string>
+    <string name="voice_call_service">servicio de llamadas</string>
+    <string name="messages_service">servicio de mensajeria</string>
+    <string name="data_connection_service">servicio de conexion de datos</string>
     <string name="wifi">WLAN</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="mobile">Data connection</string>
