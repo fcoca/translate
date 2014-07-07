@@ -203,7 +203,7 @@
     <string name="data_connection_service">servicio de conexion de datos</string>
     <string name="wifi">WLAN</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="mobile">Data connection</string>
+    <string name="mobile">Conexion de datos</string>
     <string name="gps">GPS</string>
     <string name="autorotate">Auto rotation</string>
     <string name="normal">General</string>
